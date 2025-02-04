@@ -5,6 +5,8 @@ Since I love this field, I'm part of [Auria Technologies](https://auria.gal/), a
 
 My main programming languages and platforms are: Java, Python, HTML, JavaScript, CSS, C++, C# and Struts2.
 
+***
+
 ### Contact 💻
 - 📧[Email](mario.vperez03@gmail.com)
 - 💼[Linkedin](https://www.linkedin.com/in/mario-v%C3%A1zquez-p%C3%A9rez-4b4008236/)  
