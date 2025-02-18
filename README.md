@@ -3,7 +3,7 @@
 I'm a Computer Engineering degree student in Univertity of Vigo. I'm also working at [Balidea](https://www.balidea.com/) as a Junior Web Developer.
 Since I love this field, I'm part of [Auria Technologies](https://auria.gal/), a non-profit organization focused on programming a driverless car to participate in formula student competitions. 
 
-My main programming languages and platforms are: Java, Python, HTML, JavaScript, CSS, C++, C# and Struts2.
+My main programming languages and platforms are: Java, Python, HTML, JavaScript, CSS, C++, C#, Processing and Struts2.
 
 ***
 
