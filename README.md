@@ -1,12 +1,13 @@
 ## Mario Vázquez Pérez 🙋‍♂️
 
-I'm a Computer Engineering degree student in Univertity of Vigo. I'm also working at [Balidea](https://www.balidea.com/) as a Junior Web Developer.
-Since I love this field, I'm part of [Auria Technologies](https://auria.gal/), a non-profit organization focused on programming a driverless car to participate in formula student competitions. 
+I am Mario Vázquez Pérez, a final‑year Computer Science undergraduate at the University of Vigo (with an Erasmus exchange at the University of Oradea) and currently a Full‑Stack Web Developer at Balidea. At Auria Technologies, I co‑designed the autonomous control system for a Formula Student prototype. 
 
-My main programming languages and platforms are: Java, Python, HTML, JavaScript, CSS, C++, C#, Processing and Struts2.
+I am proficient in Java, Python, C/C++, C#, Bash, HTML5, CSS3, JavaScript (including JSP), React, Struts2, Spring Boot, Electron, Unity, Processing, SQL and Azure. Passionate about UI/UX, scalable architectures and agile methodologies, I aspire to lead multidisciplinary teams in delivering efficient, user‑centric solutions.
 
-***
+---
 
-### Contact 💻
-- 📧[Email](mario.vperez03@gmail.com)
-- 💼[Linkedin](https://www.linkedin.com/in/mario-v%C3%A1zquez-p%C3%A9rez-4b4008236/)  
+### Contact 📞
+- 📧 [Email](mailto:mario.vperez03@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mario-v%C3%A1zquez-p%C3%A9rez-4b4008236/)
+- 💻 [Portfolio](https://mariovp.dev/)
+
