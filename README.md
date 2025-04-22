@@ -8,6 +8,6 @@ I am proficient in Java, Python, C/C++, C#, Bash, HTML5, CSS3, JavaScript (inclu
 
 ### Contact 📞
 - 📧 [Email](mailto:mario.vperez03@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mario-v%C3%A1zquez-p%C3%A9rez-4b4008236/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mario-vp/)
 - 💻 [Portfolio](https://mariovp.dev/)
 
