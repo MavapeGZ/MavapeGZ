@@ -2,19 +2,27 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Update daily
+    - cron: "0 0 * * *"   # diario
   workflow_dispatch:
   push:
     branches: ["main"]
+
+permissions:
+  contents: write   # <— NECESARIO para que AUTO_PUSH pueda commitear
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          persist-credentials: false
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: su_usuario_github
+          USERNAME: MavapeGZ          # <— su usuario exacto (sensible a mayúsculas)
           AUTO_PUSH: true
+          # OPTIONAL: tema por defecto
+          # CARD_THEME: tokyonight
