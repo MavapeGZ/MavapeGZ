@@ -44,7 +44,7 @@ I hold a **Bachelor’s Degree in Computer Engineering** from the University of 
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/su_usuario_github/su_usuario_github/main/profile-summary-card-output/tokyonight/3-stats.svg"
+    src="https://raw.githubusercontent.com/su_usuario_github/su_usuario_github/cards/profile-summary-card-output/tokyonight/3-stats.svg"
     alt="GitHub Stats"
   />
 </p>
