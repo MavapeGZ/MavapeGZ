@@ -40,16 +40,16 @@ I hold a **Bachelor’s Degree in Computer Engineering** from the University of 
 
 ---
 
-<!--## GitHub Stats
+--## GitHub Stats
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/su_usuario_github/su_usuario_github/main/profile-summary-card-output/tokyonight/3-stats.svg"
+    src="https://raw.githubusercontent.com/MavapeGZ/MavapeGZ/main/profile-summary-card-output/tokyonight/3-stats.svg"
     alt="GitHub Stats"
   />
 </p>
 
---- -->
+--- 
 
 ## 🤝 Connect with Me  
 
