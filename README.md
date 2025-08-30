@@ -38,18 +38,16 @@ I hold a **Bachelor’s Degree in Computer Engineering** from the University of 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
 </p>
 
----
 
-<!--## GitHub Stats
+
+## GitHub Stats
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/su_usuario_github/su_usuario_github/main/profile-summary-card-output/tokyonight/3-stats.svg"
+    src="https://github-readme-stats.vercel.app/api?username=MavapeGZ&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
 </p>
-
---- -->
 
 ## 🤝 Connect with Me  
 
