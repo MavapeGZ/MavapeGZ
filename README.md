@@ -4,7 +4,7 @@ I am a **Software Engineer** with a strong academic and professional background 
 I hold a **Bachelor’s Degree in Computer Engineering** from the University of Vigo. 
 
 💼 Currently working as **Software Developer at Balidea**, and old member of **Auria Technologies** contributing to autonomous car systems.  
-🌍 Experienced with **Erasmus in Romania** and certified in **Azure AI-800**.  
+🌍 Experienced with **Erasmus in Romania** and certified in **Azure AI-900**.  
 🚀 Passionate about **FullStack Development, AI, Cloud Computing and organization**.  
 
 ---
