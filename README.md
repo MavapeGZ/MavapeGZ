@@ -62,7 +62,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MavapeGZ&show_icons=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=MavapeGZ&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
 </p>
