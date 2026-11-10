@@ -1,11 +1,13 @@
 # 🙋‍♂️ Hi, I'm Mario  
 
-I am a **Software Engineer** with a strong academic and professional background in software development, currently pursuing a **Master’s Degree in Software Engineering and Computer Systems** at UNIR.  
-I hold a **Bachelor’s Degree in Computer Engineering** from the University of Vigo. 
+**Full Stack Developer** from Ourense. I build web applications end to end with **Java, Spring & JavaScript** in production environments, with a strong focus on clean front-end and UI/UX.
 
-💼 Currently working as **Software Developer at Balidea**, and old member of **Auria Technologies** contributing to autonomous car systems.  
-🌍 Experienced with **Erasmus in Romania** and certified in **Azure AI-900**.  
-🚀 Passionate about **FullStack Development, AI, Cloud Computing and organization**.  
+🎓 **Master's Degree in Software Engineering and Computer Systems** (UNIR) and **Bachelor's Degree in Computer Engineering** (University of Vigo), including an **Erasmus+** stay in Oradea, Romania.  
+💼 Currently **Software Developer at Balidea**, building web applications for corporate clients (Java, Struts2, Spring, SpringBoot, Thymeleaf, REST & SOAP) under SCRUM.  
+🏎️ Former member of **Auria Technologies**, where I worked on the autonomous driving system for **Formula Student AI UK '25** at Silverstone (Python, ROS, Linux).  
+☁️ Certified in **Microsoft Azure AI Fundamentals (AI-900)**.  
+🚀 Focused on scalable architectures, design patterns and front-end/UI-UX, aiming at project management roles in the long run.  
+📫 Open to new opportunities. More at **[mariovp.dev](https://mariovp.dev/)**
 
 ---
 
@@ -15,6 +17,7 @@ I hold a **Bachelor’s Degree in Computer Engineering** from the University of 
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
@@ -22,22 +25,37 @@ I hold a **Bachelor’s Degree in Computer Engineering** from the University of 
 </p>
 
 <p>
-  <!-- Web -->
+  <!-- Web & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" title="Thymeleaf" alt="Thymeleaf" width="50" height="50"/>&nbsp;
 </p>
 
 <p>
-  <!-- Tools & OS -->
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+</p>
+
+<p>
+  <!-- Desktop & Game Dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" title="Processing" alt="Processing" width="50" height="50"/>&nbsp;
+</p>
+
+<p>
+  <!-- Tools, OS & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
 </p>
-
 
 
 ## GitHub Stats
